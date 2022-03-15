@@ -1,0 +1,2 @@
+# webdiary
+*PRIVATE*
